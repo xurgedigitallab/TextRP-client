@@ -1,7 +1,16 @@
 # TextRP-client: Technical Overview
 
+## Related Repositories
+
+| [System Admin Dashboard](https://github.com/xurgedigitallab/TextRP-adminDB) |  [Chat Client](https://github.com/xurgedigitallab/TextRP-client) |
+| ----- | ----- |
+| **[TextRP Matrix JS SDK](https://github.com/xurgedigitallab/TextRP-matrix-js-sdk)** | **[Homeserver Admin](https://github.com/xurgedigitallab/TextRP-homeserver-admin)** |
+| **[XRPL Integrator](https://github.com/xurgedigitallab/TextRP-adminDB)** | **[SMS Bridge](https://github.com/xurgedigitallab/TextRP-adminDB)** |
+| **[Twitter Bridge](https://github.com/xurgedigitallab/TextRP-twitter-bridge)** | **[TextRP Matrix React SDK](https://github.com/xurgedigitallab/TextRP-Matrix-React-SDK)** |
+
+
 ## Repository Overview
-[TextRP-client](https://github.com/xurgedigitallab/TextRP-client.git) is a code repository hosted on GitHub, developed by Xurge Digital Lab. It is a modification of the Element app, designed to integrate with the XRPL (XRP Ledger).
+[TextRP-client](https://github.com/xurgedigitallab/TextRP-client.git) is a modification of the open source Element chat client, designed to integrate with the XRPL (XRP Ledger) and its UI and functionality directed by [XRPL Integrator](https://github.com/xurgedigitallab/TextRP-adminDB).
 
 ## Technical Details
 
